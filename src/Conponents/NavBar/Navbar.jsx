@@ -24,7 +24,13 @@ export const Navbar = () => {
                     <X className='md:hidden'></X> 
                     :<Menu className='md:hidden'></Menu>
             }
-            <ul className='md:hidden'>
+            <ul className={`md:hidden absolute duration-400
+                ${open? "top-10" : "-top-60"}
+                -left-3 
+                bg-cyan-950
+                
+                ml-10
+                `}>
                 {
                     links
                 }

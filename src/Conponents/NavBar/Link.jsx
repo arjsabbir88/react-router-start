@@ -6,7 +6,7 @@ export const Link = ({route}) => {
   return (
     <div>
         <ul className='flex'>
-            <li className='ml-8 cursor-pointer hover:underline'>
+            <li className='m-2 border-b-black px-4 cursor-pointer hover:underline'>
             <a href={path}>{name}</a></li>
         </ul>
     </div>

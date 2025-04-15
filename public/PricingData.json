@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Package",
+      "price": "৳1200/month",
+      "features": [
+        "Access to Gym Equipment",
+        "Locker Room",
+        "Unlimited Workout Time",
+        "Free WiFi",
+        "Access to Music System"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Package",
+      "price": "৳1800/month",
+      "features": [
+        "All Basic Features",
+        "Personal Trainer (2 sessions/week)",
+        "Group Classes",
+        "Body Measurement & Tracking",
+        "Nutritional Guide",
+        "Morning & Evening Flexible Hours"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Package",
+      "price": "৳2500/month",
+      "features": [
+        "All Standard Features",
+        "Unlimited Personal Training",
+        "Diet Consultation with Expert",
+        "Steam & Sauna Access",
+        "Priority Access to New Equipment",
+        "Special Guest Workshop Access",
+        "1 Free Protein Shake per Week"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Student Package",
+      "price": "৳900/month",
+      "features": [
+        "Access to Gym Equipment",
+        "Locker Room",
+        "Evening Discount Timing",
+        "ID-Based Entry Security",
+        "Free Introductory Trainer Session"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Annual Package",
+      "price": "৳18,000/year",
+      "features": [
+        "All Premium Features",
+        "Free Gym Merchandise Pack",
+        "Priority Booking for Classes",
+        "Annual Health & Fitness Report",
+        "24/7 Support",
+        "One Month Pause Option"
+      ]
+    }
+  ]
+  
